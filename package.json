@@ -67,7 +67,7 @@
     "precommit-test"
   ],
   "devDependencies": {
-    "@appium/gulp-plugins": "^7.0.0",
+    "@appium/gulp-plugins": "^8.0.0",
     "@appium/eslint-config-appium": "^6.0.0",
     "@babel/core": "^7.16.0",
     "@babel/eslint-parser": "^7.16.3",
